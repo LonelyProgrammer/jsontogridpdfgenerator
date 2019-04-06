@@ -1,0 +1,203 @@
+#AccountDetails:1. Basic Account Details
+last_update_date:Account Last Update Date
+system_last_update:System Last Update Channel
+dii_region:Account Region
+#consolidated_person_ids:2. Other Accounts Linked
+consolidated_person_id:Additional Person System ID
+merged_date:Merged Date
+#PersonalDetails:3. Personal Details
+person_type_refcode:Account Type
+person_type_date_from:Account Type from
+person_subtype_refcode:Person Sub-Type
+title_refcode:Title
+gender_refcode:Gender
+first_name:First Name
+last_name:Last Name
+date_of_birth:Date Of Birth
+preferred_language_refcode:Preferred Language Code
+home_country_2l:Account Country Code
+#AccessDetails:4. Access Details
+primary_login_id:Main Login System ID
+login_id:Login System ID
+login_name:Login Name
+last_login_date:Last Login Date
+last_login_app_ID:Last Login Channel:TRUE
+#ContactInfo:Contact Information
+#Addresses:5. Address
+verification_status_refcode:Verification Status:TRUE
+verification_date_change:Verification Date:TRUE
+verification_source:Verification Source:TRUE
+address_line_1:Street Number
+address_line_2:Street Name
+address_line_3:Address C/O:TRUE
+address_line_4:Address Building:TRUE
+address_line_5:Apartment Number:TRUE
+postal_code:ZIP Code
+district:District:TRUE
+city:City
+area:Area:TRUE
+region:Region:TRUE
+country_2l:Country Code
+last_updated_date:Last Update Date:TRUE
+#Phones:6. Phone Details
+phone_number_type_refcode:Phone Type:TRUE
+country_code_refcode:Phone Country
+phone_number:Phone Number
+phone_internal_account_id:Phone System ID
+carrier:Phone Carrier
+verification_status_refcode:Verification Status:TRUE
+verification_date_change:Verification Date:TRUE
+verification_source:Verification Source:TRUE
+last_updated_date:Last Update Date:TRUE
+#ConsolidatedPhones:7. Additional Phones
+phone_number_type_refcode:PhoneType:TRUE
+country_code_refcode:Phone Country
+phone_number:Phone Number
+phone_internal_account_id:Phone System ID:TRUE
+carrier:Phone Carrier
+verification_status_refcode:Verification Status:TRUE
+verification_date_change:Verification Date:TRUE
+verification_source:Verification Source:TRUE
+last_updated_date:Last Update Date
+#Emails:8. Email Address
+email_address:Email Address
+email_internal_account_id:Email System ID:TRUE
+verification_status_refcode:Verification Status:TRUE
+verification_date_change:Verification Date:TRUE
+verification_source:Verification Source:TRUE
+last_updated_date:Last Update Date:TRUE
+#ConsolidatedEmails:9. Additional Emails
+email_address:Email Address
+email_internal_account_id:Email System ID:TRUE
+verification_status_refcode:Verification Status:TRUE
+verification_date_change:Verification Date:TRUE
+verification_source:Verification Source:TRUE
+last_updated_date:Last Update Date:TRUE
+#SocialMediaSet:10. Social Media
+SocialMediaAccounts:Social Media Account
+#Registration:11. Registration Details
+country_2l:Registration Country Code
+person_type_refcode:Profile Type
+registration_date:Registration Date
+app_id:Source of Registration Data
+smdl_brand_refcode:Preferred Brand:TRUE
+channel_refcode:Registration Channel
+agent_id:Registration System Agent ID:TRUE
+field_marketer_refcode:Registration Field Marketer:TRUE
+#MarketingPreferences:12. Marketing Communication Preferences
+database_opt_in:Data Collection Authorization
+global_opt_in:Marketing Communication
+online_access_flag:Online Access
+non_branded_contactable_flag:Non Branded Communication
+branded_contactable_flag:Branded Communication
+last_contact_date:Last Contact Date
+last_response_date:Last Response Date
+#ChannelsOptIn:13. Communication Channels
+channel_refcode:Channel Reference Code
+last_contact_date:Last Contact Date
+last_response_date:Last Response Date
+database_opt_in_change_date:Data Authorization ChangeDate
+global_opt_in_change_date:Marketing Communication ChangeDate
+#TermsAndConditions:14. Smoker Declaration Information
+smoker_declaration_flag:Smoker Declaration
+smoker_declaration_date:Smoker Declaration Date
+#TermsAndConditionsAcceptances:15. Digital Touchpoint Compliance Requirements Satisfied
+acceptance_date:Acceptance Date:TRUE
+channel_refcode:Acceptance Channel
+terms_and_conditions_refcode:Compliance Requirement Code
+terms_and_conditions_version:Compliance Requirement Version
+country_2l:Compliance Requirement Country Code:TRUE
+#AgeVerificationInfo:16. Age Verification
+la_declaration_flag:Legal Age Declaration
+la_declaration_date:Legal Age DeclarationDate
+#av_status_by_country:17. Country Age Verification
+av_status_refcode:Age Verification Status
+av_status_date_change:Age Verification Status Date Change
+latest_request_status_refcode:Latest Age Verification Request Status
+latest_document_status_refcode:Latest Age Verification Document Status:TRUE
+#AgeVerificationRequests:18. Age Verification Request
+request_id:Age Verification Request System ID:TRUE
+request_date:AgeVerification Date:TRUE
+request_status_refcode:Age Verification Request Status
+request_rejection_reason_refcode:Age Verification Request Rejection Reason:TRUE
+request_status_date_change:Age Verification Request Last Update Date:TRUE
+request_type_refcode:Age Verification Request Type:TRUE
+application:Age Verification Request Channel
+document_type_refcode:Age Verification Document Type:TRUE
+document_country_2l:Age Verification Document Country:TRUE
+document_number:Age Verification Document Number:TRUE
+document_status_refcode:Age Verification Document Status:TRUE
+#AgeVerificationDocuments:19. Age Verification Documents
+request_id:Document System ID:TRUE
+document_id:Document System ID:TRUE
+document_type_refcode:Document Type
+document_country_2l:Document Country
+document_number:Document Number
+document_expiry_date:Document Expiry Date:TRUE
+document_status_refcode:Document Status:TRUE
+document_verification_status_refcode:Document Verification Status:TRUE
+document_verification_date:Document Verification Date:TRUE
+call_center_agent_id_verifier:Call Center System ID:TRUE
+external_agent_id_verifier:External Agent System ID:TRUE
+document_reject_reason_refcode:Document Rejection Reason:TRUE
+#ThirdPartySystemVerifications:20. 3RD Party Verification:TRUE
+third_party_system_refcode:3RD Party System Code
+third_party_verification_log:3RD Party Verification Log
+third_party_verification_date:3RD Party Verification Date
+third_party_reference_number:3RD Party Reference Number
+third_party_status:3RD Party Verification Status
+#FaceToFaceVerifications:21. Face To Face Verification:TRUE
+field_marketer_refcode:Field Marketer Code
+external_agent_id:External Agent System ID:TRUE
+face_to_face_status_refcode:Face To Face Code
+#BlockingInfo:22. Blocking Information
+blocking_flag:Blocking Flag
+blocking_reason_refcode:Blocking Reason:TRUE
+blocked_date:Blocking Date:TRUE
+#ExtendedAttributes:23. Additional Attributes
+attribute_refcode:Attribute Code
+last_updated_date:Last Update Date:TRUE
+attribute_category_refcode:Atribute Category Code:TRUE
+#ConsumerCareSection:24. Consumer Care Cases
+last_case_start_date:Case Start Date:TRUE
+last_case_category_refcode:Case Category:TRUE
+last_case_status_refcode:Case Status:TRUE
+nb_cases_opened:Number Of Cases Opened
+nb_cases_closed:Number Of Cases Closed
+#Cases:25. Cases:TRUE
+case_id:Case System ID
+case_category_refcode:Case Type
+status_refcode:Case Status
+#EcommerceSection:26. Ecommerce Orders
+last_order_date:Last Order Date
+nb_orders:Number Of Orders
+#Orders:27. Orders
+order_id:Order System ID:TRUE
+order_date:Order Date:TRUE
+order_status_refcode:Order Status:TRUE
+order_amount:Order Amount
+order_currency_refcode:Order Currency:TRUE
+payment_date:Payment Date:TRUE
+payment_status_refcode:Payment Status:TRUE
+payment_method_refcode:Payment Method:TRUE
+shipping_date:Shipping Date:TRUE
+shipping_status_refcode:Shipping Status:TRUE
+shipping_method_refcode:Shipping Method:TRUE
+promotional_code:Promotional Code:TRUE
+#items:28. Order Items
+item_id:Item System ID:TRUE
+item_description:Item Description
+item_quantity:Item Quantity
+item_price:Item Price:TRUE
+#DevicesInfo:29. Devices Information
+number_of_active_holders:Number Of Active Holders
+number_of_active_chargers:Number Of Active Pocket Charger
+#Devices:30. Device Details
+device_id:Device System ID:TRUE
+device_serial_number:Device Serial Number
+device_type_refcode:Device Type:TRUE
+device_version:Device Version:TRUE
+purchase_date:Purchase Date:TRUE
+registration_date:Registration Date:TRUE
+status_refcode:Device Status:TRUE
+status_change_date:Device Change Date:TRUE

@@ -1,0 +1,364 @@
+{
+    "consolidated_person_ids": [],
+    "last_update_date": "2018-07-27T09:30:31.291+0000",
+    "system_last_update": "GITHUB",
+    "email_provided": false,
+    "login_provided": false,
+    "phone_provided": false,
+    "age_verification_status_provided": false,
+    "date_of_birth_provided": false,
+    "dii_region": "person_dii_eu",
+    "AccessDetails": {
+        "primary_login_id": "Login1",
+        "primary_login_location": "CH",
+        "LoginInformation": [
+            {
+                "ApplicationLoginIds": [
+                    {
+                        "login_id": "Login1",
+                        "login_name": "lonelyProgrammer@gmail.com",
+                        "password": null,
+                        "login_location": "CH"
+                    }
+                ],
+                "last_login_date": null,
+                "last_login_app_ID": null
+            }
+        ],
+        "Questions": []
+    },
+    "ContactInfo": {
+        "Addresses": [
+            {
+                "address_contact_type_refcode": "Primary",
+                "address_internal_account_id": "XXX-XXXX-XX",
+                "verification_status_refcode": "NONVERIFIED",
+                "verification_date_change": null,
+                "verification_source": null,
+                "paf_refcode": null,
+                "address_line_1": "3",
+                "address_line_2": "Rue des Sports",
+                "address_line_3": null,
+                "address_line_4": null,
+                "address_line_5": null,
+                "postal_code": "1373",
+                "post_box": null,
+                "district": null,
+                "city": "Chavornay",
+                "area": null,
+                "region": null,
+                "locality": null,
+                "country_2l": "CH",
+                "latitude": null,
+                "longitude": null,
+                "last_updated_date": "2018-07-26T19:17:20.214+0000"
+            }
+        ],
+        "Phones": {
+            "MainPhone": {
+                "phone_number_type_refcode": null,
+                "phone_device_type_refcode": null,
+                "phone_number": "00-342-65",
+                "phone_internal_account_id": "c2e75760-a48c-4d35-a584-935f72a0bc79",
+                "carrier": null,
+                "verification_status_refcode": "NONVERIFIED",
+                "verification_date_change": null,
+                "verification_source": null,
+                "country_code_refcode": "+41",
+                "last_updated_date": "2018-07-26T19:17:20.214+0000"
+            },
+            "ConsolidatedPhones": []
+        },
+        "Emails": {
+            "MainEmail": {
+                "email_address": "lonelyProgrammer@gmail.com",
+                "email_internal_account_id": "369ac294-d2e6-4709-be6f-38c4c78a2469",
+                "verification_status_refcode": "VERIFIED",
+                "verification_date_change": "2018-07-27T00:00:00.000+0000",
+                "verification_source": "Admin Portal",
+                "last_updated_date": "2018-07-26T19:17:20.214+0000"
+            },
+            "ConsolidatedEmails": []
+        },
+        "SocialMediaSet": {
+            "influencer_score": null,
+            "influencer_score_last_updated_date": null,
+            "SocialMediaAccounts": []
+        }
+    },
+    "PersonalDetails": {
+        "person_type_refcode": "LAC",
+        "person_type_date_from": "2018-07-26T19:17:20.214+0000",
+        "PersonSubtypes": [
+            {
+                "person_subtype_refcode": [],
+                "country_2l": "CH"
+            }
+        ],
+        "title_refcode": null,
+        "gender_refcode": "M",
+        "first_name": "KBPN",
+        "last_name": "Programmer",
+        "phonetic_first_name": null,
+        "phonetic_last_name": null,
+        "full_name": null,
+        "nickname": null,
+        "date_of_birth": "1986-12-20",
+        "preferred_language_refcode": "fr-CH",
+        "home_country_2l": "CH",
+        "VisitedCountries": [
+            {
+                "country_2l": "CH",
+                "last_date": "2018-07-26T19:17:20.214+0000"
+            }
+        ],
+        "home_country_change_date": "2018-07-26T19:17:20.214+0000"
+    },
+    "TermsAndConditions": {
+        "smoker_declaration_flag": true,
+        "smoker_declaration_date": "2018-07-26T19:17:20.023+0000",
+        "TermsAndConditionsAcceptances": [
+            {
+                "acceptance_date": "2018-07-26T19:17:20.023+0000",
+                "channel_refcode": "WEB",
+                "terms_and_conditions_refcode": "PMTC",
+                "terms_and_conditions_version": "4",
+                "country_2l": "CH"
+            }
+        ]
+    },
+    "AgeVerificationInfo": {
+        "la_declaration_flag": true,
+        "la_declaration_date": "2018-07-26T19:17:20.023+0000",
+        "global_av_flag": false,
+        "av_status_by_country": [
+            {
+                "country_2l": "CH",
+                "av_status_refcode": "VERIFIED",
+                "av_status_date_change": "2018-07-27T07:17:01.922+0000"
+            }
+        ],
+        "latest_request_status_refcode": "VERIFIED",
+        "latest_document_status_refcode": "VERIFIED",
+        "age_recognition_level": null,
+        "AgeVerificationDocuments": [
+            {
+                "document_type_refcode": "IDCARD",
+                "document_country_2l": "CH",
+                "document_number": "C9353920",
+                "giid": null
+            }
+        ],
+        "AgeVerificationRequests": [
+            {
+                "person_id": "cdc21126-7213-460c-ab9a-aea6a2f72c89",
+                "request_id": "846ad580-9108-11e8-88e2-d79596d6f0b5",
+                "request_date": "2018-07-26T19:17:20.216+0000",
+                "request_status_refcode": "VERIFIED",
+                "request_rejection_reason_refcode": null,
+                "request_status_date_change": "2018-07-27T07:17:01.922+0000",
+                "request_type_refcode": "IDCOPY",
+                "request_country_2l": "CH",
+                "first_name": "KBPN",
+                "last_name": "Programmer",
+                "birthdate": "1986-12-20",
+                "mobile_phone": null,
+                "address_line_1": "3",
+                "address_line_2": "Rue des Sports",
+                "address_line_3": null,
+                "address_line_4": null,
+                "address_line_5": null,
+                "postal_code": "1373",
+                "post_box": null,
+                "city": "Chavornay",
+                "area": null,
+                "region": null,
+                "country_2l": "CH",
+                "email_address": "lonelyProgrammer@gmail.com",
+                "gender_refcode": "M",
+                "application": "KBPN",
+                "document_type_refcode": "IDCARD",
+                "document_country_2l": "CH",
+                "document_number": "C9353920",
+                "document_status_refcode": "DU",
+                "blocking_flag": false,
+                "AgeVerificationDocuments": [
+                    {
+                        "person_id": "cdc21126-7213-460c-ab9a-aea6a2f72c89",
+                        "request_id": "846ad580-9108-11e8-88e2-d79596d6f0b5",
+                        "document_id": "17087e96-8c2e-4925-830f-3f29ae3ec428",
+                        "document_type_refcode": "IDCARD",
+                        "document_country_2l": "CH",
+                        "document_number": "C9353920",
+                        "document_expiry_date": null,
+                        "document_status_refcode": "DU",
+                        "document_verification_status_refcode": "VERIFIED",
+                        "document_verification_date": "2018-07-27T07:17:01.922+0000",
+                        "call_center_agent_id_verifier": "lcincina",
+                        "external_agent_id_verifier": null,
+                        "document_reject_reason_refcode": null,
+                        "document_images": [
+                            {
+                                "request_document_image_type_refcode": "IDF",
+                                "request_document_image": "cdb-prd-eu-west-1-service-person-dw_cdc21126-7213-460c-ab9a-aea6a2f72c89_17087e96-8c2e-4925-830f-3f29ae3ec428_0.JPG",
+                                "request_document_image_file_type_refcode": "JPEG"
+                            }
+                        ],
+                        "giid": null
+                    }
+                ],
+                "ThirdPartySystemVerifications": null,
+                "FaceToFaceVerifications": {
+                    "field_marketer_refcode": null,
+                    "external_agent_id": null,
+                    "touchpoint_refcode": null,
+                    "face_to_face_status_refcode": null
+                }
+            }
+        ]
+    },
+    "BlockingInfo": {
+        "blocking_flag": false,
+        "blocking_reason_refcode": null,
+        "blocked_date": null
+    },
+    "Registration": [
+        {
+            "country_2l": "CH",
+            "person_type_refcode": "LAC",
+            "registration_date": "2018-07-26T19:17:20.022+0000",
+            "app_id": "Demandware",
+            "system_person_id": null,
+            "cell": null,
+            "campaign": null,
+            "smdl_brand_refcode": null,
+            "channel_refcode": "WEB",
+            "source_channel_refcode": null,
+            "mechanism_refcode": null,
+            "touchpoint_refcode": null,
+            "media_id": null,
+            "event_id": null,
+            "agent_id": null,
+            "field_marketer_refcode": null,
+            "retailer_id": null,
+            "person_id": null,
+            "voucher_code": null,
+            "market_refcode": null
+        }
+    ],
+    "BrandPreferences": {
+        "ProductTypes": null,
+        "last_updated_date": null
+    },
+    "MarketingPreferences": {
+        "database_opt_in": true,
+        "global_opt_in": true,
+        "marketing_countries": [
+            "CH"
+        ],
+        "online_access_flag": true,
+        "non_branded_contactable_flag": true,
+        "branded_contactable_flag": true,
+        "last_contact_date": null,
+        "last_response_date": null,
+        "ChannelsOptIn": [
+            {
+                "channel_refcode": "IM",
+                "last_contact_date": null,
+                "last_response_date": null,
+                "opt_in_explicit_flag": false,
+                "opt_in_flag": true,
+                "contactable_flag": null
+            },
+            {
+                "channel_refcode": "MR",
+                "last_contact_date": null,
+                "last_response_date": null,
+                "opt_in_explicit_flag": false,
+                "opt_in_flag": true,
+                "contactable_flag": null
+            },
+            {
+                "channel_refcode": "WEB",
+                "last_contact_date": null,
+                "last_response_date": null,
+                "opt_in_explicit_flag": false,
+                "opt_in_flag": true,
+                "contactable_flag": null
+            },
+            {
+                "channel_refcode": "PHONE",
+                "last_contact_date": null,
+                "last_response_date": null,
+                "opt_in_explicit_flag": false,
+                "opt_in_flag": true,
+                "contactable_flag": true
+            },
+            {
+                "channel_refcode": "SMS",
+                "last_contact_date": null,
+                "last_response_date": null,
+                "opt_in_explicit_flag": false,
+                "opt_in_flag": true,
+                "contactable_flag": true
+            },
+            {
+                "channel_refcode": "DM",
+                "last_contact_date": null,
+                "last_response_date": null,
+                "opt_in_explicit_flag": false,
+                "opt_in_flag": true,
+                "contactable_flag": true
+            },
+            {
+                "channel_refcode": "F2F",
+                "last_contact_date": null,
+                "last_response_date": null,
+                "opt_in_explicit_flag": false,
+                "opt_in_flag": true,
+                "contactable_flag": null
+            },
+            {
+                "channel_refcode": "EMAIL",
+                "last_contact_date": null,
+                "last_response_date": null,
+                "opt_in_explicit_flag": false,
+                "opt_in_flag": true,
+                "contactable_flag": true
+            }
+        ],
+        "BrandsOptIn": null,
+        "database_opt_in_change_date": "2018-07-26T19:17:20.214+0000",
+        "global_opt_in_change_date": "2018-07-26T19:17:20.214+0000"
+    },
+    "Interests": [],
+    "ExtendedAttributes": [],
+    "SegmentationAttributes": [],
+    "ConsumerCareSection": {
+        "last_case_start_date": "2018-07-27T18:50:00.619+0000",
+        "last_case_category_refcode": "Inquiry",
+        "last_case_status_refcode": "Open",
+        "nb_cases_opened": 1,
+        "nb_cases_closed": 0,
+        "Cases": [
+            {
+                "case_id": "5005800000YczVzAAJ",
+                "case_category_refcode": "Inquiry",
+                "opening_date": "2018-07-27T18:50:00.619+0000",
+                "latest_update_date": "2018-07-27T18:50:00.619+0000",
+                "closing_date": null,
+                "status_refcode": "Open"
+            }
+        ]
+    },
+    "EcommerceSection": {
+        "last_order_date": null,
+        "nb_orders": 0,
+        "Orders": []
+    },
+    "DevicesInfo": {
+        "number_of_active_holders": 0,
+        "number_of_active_chargers": 0,
+        "Devices": []
+    }
+}

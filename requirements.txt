@@ -1,0 +1,3 @@
+requests
+reportlab==3.4.0
+enum==0.4.6
